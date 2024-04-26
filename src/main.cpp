@@ -23,3 +23,16 @@ const int redPin = 32;
 const int yellowPin = 33;
 const int greenPin = 25;
 const int buttonPin = 25;
+
+//setup
+void setup(void)
+{
+pinMMode(redPin, OUTPUT)
+pinMMode(yellowPin, OUTPUT)
+pinMMode(greenPin, OUTPUT)
+
+
+
+
+
+}
